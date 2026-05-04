@@ -11,6 +11,14 @@
 * The score depends on accuracy of syncing the pieces into target digits.
 * Avoid system hazards falling. Do not press any key during system hazards fall.
 
+## Screenshots
+
+Title Screen
+![Title screen](assets/1.png)
+
+Game Screen
+![Game screen](assets/2.png)
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
