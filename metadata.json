@@ -1,0 +1,6 @@
+{
+  "name": "GridSync: Number Assembly",
+  "description": "A precision timing game where you reconstruct digits by syncing falling numerical segments into their target matrix. Test your reflexes and avoid explosive system hazards!",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
